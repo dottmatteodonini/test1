@@ -1,0 +1,39 @@
+https://www.codecademy.com/
+https://www.freecodecamp.org/
+https://theodinproject.com/
+
+tecnologie:
+git (alternativa git flow https://danielkummer.github.io/git-flow-cheatsheet/)
+java 
+spring
+maven
+deploy su server
+ui (da capire una volta ottenuti i sorgenti)
+html e css (da capire una volta ottenuti i sorgenti)
+
+GIT 
+spiegazione logiche di push/pull local/remote
+spiegazione meccaniche branching stile git lab (https://docs.gitlab.com/ee/topics/gitlab_flow.html#git-flow-and-its-problems)
+creazione repo privato github per esercizi
+
+JAVA
+elementi java (https://www.html.it/pag/15097/introduzione-alla-programmazione-java/)
+costrutti (https://www.html.it/pag/15104/istruzioni-e-costrutti-fondamentali/)
+primitivi e oggetti comuni
+creazione progetto partendo da spring.io 
+creazione classe calcolatrice
+spiegazione debug
+web (https://spring.io/guides/gs/rest-service/)
+
+MAVEN
+cenni
+
+SPRING
+spiegazione spring
+cenni spring core
+spiegazione spring jpa
+
+DEPLOY
+deploy su server (tomcat)
+cenni spring boot
+
